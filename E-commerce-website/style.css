@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .nav-item a{
+    text-decoration: 5px solid black;
+} */
+
+
+.serc-icon{
+    margin-left: -35px;
+}
+
+.red-box{
+    background-color: brown;
+    width: 25px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.cato-con{
+    border-right:1px solid gray;
+}
+
+.arr-icon{
+    margin-left:300px;
+}
+
+.prod-butt{
+    background-color: rgb(231, 47, 47);
+    border: none;
+}
+.foot{
+    background-color: black;
+}
+
+
+@media (max-width:768px){
+    .cato-con{
+        display: none;
+    }
+}

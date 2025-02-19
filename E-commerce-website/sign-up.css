@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .nav-item a{
+    text-decoration: 5px solid black;
+} */
+
+
+.serc-icon{
+    margin-left: -35px;
+}
+
+.inp-1{
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.p-butt{
+    width:240px;
+    background-color: brown;
+    border: none;
+    border-radius: 5px;
+  
+}
+
+
+.sign-1{
+    width: 100%;
+    height: 100%;
+}
+
+.sign-1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.sign-2{
+    width: 50%;
+    height: 100%;
+}
+
+.sign-2 img{
+    width: 100%;
+    height: 100%;
+}
+.foot{
+    background-color: black;
+}

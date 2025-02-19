@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .nav-item a{
+    text-decoration: 5px solid black;
+} */
+
+
+.serc-icon{
+    margin-left: -35px;
+}
+
+.foot{
+    background-color: black;
+}
